@@ -101,3 +101,5 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 
 STATIC_URL = '/static/'
+
+AUTH_USER_MODEL = 'accounts.User'

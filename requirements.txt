@@ -1,4 +1,4 @@
-Django==2.2.8
+Django==2.2.13
 django-crispy-forms==1.8.0
 django-debug-toolbar==2.1
 python-dotenv==0.10.3
